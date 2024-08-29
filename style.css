@@ -21,11 +21,10 @@ body {
 
 h1 {
   font-size: 48px;
-  margin-top: -10px;
+  margin-bottom: 30px;
 }
 .valueNum {
   font-size: 60px;
-  margin-top: 60px;
 }
 .by-user {
   margin: 10px;
