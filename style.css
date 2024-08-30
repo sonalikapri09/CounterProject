@@ -76,4 +76,10 @@ input {
   .valueNum {
     font-size: 48px;
   }
+  .increase-decrease-btn{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-self: center;
+  }
 }
